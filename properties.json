@@ -1,9 +1,9 @@
 {
-    "<PRODUCT-DESCRIPTION>":"Declaration of Independence", 
-    "<PRODUCT>" :"Declaration of Independence",
+    "<PRODUCT-DESCRIPTION>":"The Book of Mormon", 
+    "<PRODUCT>" :"The Book of Mormon",
     "<PRICE>" :"$1.49",
-    "<PRODUCT_LOWER>" :"declaration-of-independence",
-    "<PRICE_ID>" :"price_1J9zYGE6l9W8YrrltXHbusBO",
-    "<PDF-NAME>" :"declaration-of-independence.pdf",
-    "<A_VERSION>" :"charlie" 
+    "<PRODUCT_LOWER>" :"the-book-of-mormon",
+    "<PRICE_ID>" :"price_1JAIsXE6l9W8YrrlqyYj5FKs",
+    "<PDF-NAME>" :"the-book-of-mormon.pdf",
+    "<A_VERSION>" :"echo" 
 }
